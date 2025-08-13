@@ -26,3 +26,7 @@ PERSONAL USE
 > 1920x1080-anime-anime-girls-picture-in-picture-Asuka-Langley-Soryu-Asuka-Langley-Shikinami.png :
 > ![1920x1080-anime-anime-girls-picture-in-picture-Asuka-Langley-Soryu-Asuka-Langley-Shikinami.png](https://raw.githubusercontent.com/itz-ZEPH/ImageHost/refs/heads/main/Picture/1920x1080-anime-anime-girls-picture-in-picture-Asuka-Langley-Soryu-Asuka-Langley-Shikinami.png)
 
+> Source : [X](https://x.com/ekakidayo_/status/1403669659262406658/photo/1)\
+> Author : [さなせ](https://lit.link/zh-tw/sanase)\
+> -花譜-.jfif :
+> ![-花譜-.jfif](https://raw.githubusercontent.com/itz-ZEPH/ImageHost/refs/heads/main/Picture/-%E8%8A%B1%E8%AD%9C-.jfif)
