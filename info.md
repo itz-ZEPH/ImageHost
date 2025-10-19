@@ -3,6 +3,7 @@ PERSONAL USE
 
 > Source : [Pixiv](https://www.pixiv.net/artworks/79070562)\
 > Author : [淺春](https://www.pixiv.net/users/5662397)\
+> Note : Edited image (cropped)\
 > resize.png :
 > ![resize.png](https://raw.githubusercontent.com/itz-ZEPH/ImageHost/refs/heads/main/Picture/resize.png)
 
@@ -30,4 +31,5 @@ PERSONAL USE
 > Author : [さなせ](https://lit.link/zh-tw/sanase)\
 > -花譜-.png :
 > ![-花譜-.png](https://raw.githubusercontent.com/itz-ZEPH/ImageHost/refs/heads/main/Picture/-%E8%8A%B1%E8%AD%9C-.png)
+
 
